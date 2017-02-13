@@ -87,7 +87,7 @@ Material:
       second: 0
     - first:
         name: _Exposure
-      second: 0.56
+      second: 0.5
     - first:
         name: _GlossMapScale
       second: 1
@@ -123,7 +123,7 @@ Material:
       second: 2
     - first:
         name: _SunSize
-      second: 0
+      second: 0.03
     - first:
         name: _UVSec
       second: 0
@@ -142,4 +142,4 @@ Material:
       second: {r: 0, g: 0.35121098, b: 0.42647058, a: 1}
     - first:
         name: _SkyTint
-      second: {r: 0, g: 0.41911763, b: 0.23421282, a: 1}
+      second: {r: 0, g: 0.6911765, b: 0.2947664, a: 1}
